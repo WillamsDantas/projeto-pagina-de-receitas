@@ -1,6 +1,6 @@
 # Projeto - Página de Receita
 
-Acesse meu projeto <a href="https://willamsdantas.github.io/projeto-pagina-de-receitas/">clicando aqui</a>
+Acesse meu projeto <a href="https://willamsdantas.github.io/projeto-pagina-de-receitas/"> clicando aqui </a>
 <br><br>
 
 ![Cupcake de Café com Chantilly](https://raw.githubusercontent.com/WillamsDantas/projeto-pagina-de-receitas/main/.github/363347155-2a544d88-0f99-45f6-af5b-768d12059f32.jpeg)
