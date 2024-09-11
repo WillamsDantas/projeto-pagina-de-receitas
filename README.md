@@ -1,11 +1,12 @@
 # Projeto - Página de Receita
-Acesse meu projeto em: 
+
+Acesse meu projeto em:
 <br><br>
 
-![Página de Receita] <img src="/github/363347155-2a544d88-0f99-45f6-af5b-768d12059f32.jpeg" alt="">
+![Cupcake de Café com Chantilly](https://raw.githubusercontent.com/WillamsDantas/projeto-pagina-de-receitas/main/.github/363347155-2a544d88-0f99-45f6-af5b-768d12059f32.jpeg)
 
+# 💻Conceitos utilizados no projeto
 
-# 💻Conceitos utilizados no projeto 
 - Estrutura HTML;
 - Fontes;
 - Imagens;
