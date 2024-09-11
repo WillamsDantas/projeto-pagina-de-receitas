@@ -2,7 +2,7 @@
 Acesse meu projeto em: 
 <br><br>
 
-![Página de Receita](https://github.com/user-attachments/assets/2a544d88-0f99-45f6-af5b-768d12059f32)
+![Página de Receita] <img src="/github/363347155-2a544d88-0f99-45f6-af5b-768d12059f32.jpeg" alt="">
 
 
 # 💻Conceitos utilizados no projeto 
